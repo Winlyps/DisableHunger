@@ -1,0 +1,5 @@
+name: DisableHunger
+version: '1.0-SNAPSHOT'
+main: winlyps.disableHunger.DisableHunger
+api-version: '1.20'
+authors: [ Winlyps ]
